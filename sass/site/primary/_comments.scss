@@ -99,6 +99,33 @@ span.says,
 	margin-bottom: 2.75rem;
 }
 
+.comment-form-author label,
+.comment-form-author input,
+.comment-form-email label,
+.comment-form-email input,
+.comment-form-url label,
+.comment-form-url input,
+.comment-form-comment label,
+.comment-form-comment input {
+	display: block;
+	width: 100%;
+}
+
+.comment-form-author label,
+.comment-form-email label,
+.comment-form-url label,
+.comment-form-comment label {
+	margin-bottom: 6px;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment input,
+textarea#comment {
+	padding: 10px;
+}
+
 @media (min-width: 800px) {
 
 	ol.children {

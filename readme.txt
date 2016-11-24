@@ -74,6 +74,7 @@ Identity is based on Underscores http://underscores.me/, (C) 2012-2015 Automatti
 * - Added missing text domain in search-form.php.
 * - Escaped some stuff that needed to be escaped.
 * - Optimized screenshot.png (reduced file size by 75%).
+* - Improved the styles of the comment form a little bit.
 * - Removed the sass files from the (WordPress.org) distribution copy.
 *
 * 2.1.2 / 14.05.2015
