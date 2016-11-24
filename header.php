@@ -57,7 +57,7 @@ $header = identity_header_image();
 
 				<div class="menu-toggle-container">
 					<button class="menu-toggle" aria-controls="menu" aria-expanded="false">
-						<span class="screen-reader-text"><?php _e( 'Menu Toggle', 'identity' ); ?></span>
+						<span class="screen-reader-text"><?php echo esc_html( 'Menu Toggle', 'identity' ); ?></span>
 						<span class="lines" aria-hidden="true"></span>
 					</button>
 				</div><!-- .menu-toggle-container -->

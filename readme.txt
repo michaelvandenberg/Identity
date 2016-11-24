@@ -1,7 +1,7 @@
 IDENTITY
-Theme Version: 2.1.2
+Theme Version: 2.1.3
 Author: Michael Van Den Berg 
-Author URL: http://michaelvandenberg.com/
+Author URL: https://michaelvandenberg.com/
 
 --------------------
 === Description ===
@@ -65,6 +65,16 @@ Identity is based on Underscores http://underscores.me/, (C) 2012-2015 Automatti
 === Changelog ===
 --------------------
 
+*
+* 2.1.3 / 24.11.2016
+* - Changed theme URI to: https://michaelvandenberg.com/themes/#identity
+* - Removed title shim for the archive title.
+* - Updated the theme translations files.
+* - Updated the tags in style.scss and style.css.
+* - Added missing text domain in search-form.php.
+* - Escaped some stuff that needed to be escaped.
+* - Optimized screenshot.png (reduced file size by 75%).
+* - Removed the sass files from the (WordPress.org) distribution copy.
 *
 * 2.1.2 / 14.05.2015
 * Accessibility fixes.
